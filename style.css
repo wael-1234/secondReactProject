@@ -1,0 +1,19 @@
+*{
+    background-color: silver;
+}
+
+.title.red{
+    color: red;
+    font-size: 70px;
+    text-align:center ;
+} 
+img{
+    margin-left: 39%;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+video{
+    margin-left: 39%;
+    border-radius: 10px;
+}
